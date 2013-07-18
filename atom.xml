@@ -1,29 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Blog of mine]]></title>
-  <link href="http://azamuddin.github.io/atom.xml" rel="self"/>
-  <link href="http://azamuddin.github.io/"/>
-  <updated>2013-07-18T17:22:37+07:00</updated>
-  <id>http://azamuddin.github.io/</id>
-  <author>
-    <name><![CDATA[Muhammad Azamuddin]]></name>
-    
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+	<title><![CDATA[Blog of mine]]></title>
+	<link href="http://azamuddin.github.io/atom.xml" rel="self"/>
+	<link href="http://azamuddin.github.io/"/>
+	<updated>2013-07-18T17:57:35+07:00</updated>
+	<id>http://azamuddin.github.io/</id>
+	<author>
+		<name><![CDATA[Muhammad Azamuddin]]></name>
+		
+	</author>
+	<generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome to my Blog]]></title>
-    <link href="http://azamuddin.github.io/blog/2013/07/18/welcome-to-my-blog/"/>
-    <updated>2013-07-18T17:08:00+07:00</updated>
-    <id>http://azamuddin.github.io/blog/2013/07/18/welcome-to-my-blog</id>
-    <content type="html"><![CDATA[<p>Bismillah, Welcome to my Blog</p>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Welcome to my Blog]]></title>
+		
+		<link href="http://azamuddin.github.io/blog/2013/07/18/welcome-to-my-blog/"/>
+		<updated>2013-07-18T17:08:00+07:00</updated>
+		<id>http://azamuddin.github.io/blog/2013/07/18/welcome-to-my-blog</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Bismillah, Welcome to my Blog</p>
 
 <div><script src='https://gist.github.com/6028263.js'></script>
 <noscript><pre><code></code></pre></noscript></div>
 
-]]></content>
-  </entry>
-  
+]]>
+		</content>
+	</entry>
+	
 </feed>
